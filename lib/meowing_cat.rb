@@ -19,9 +19,8 @@ end
 maru = Cat.name
 maru.name = "Maru"
 
-maru.name
-
-maru.meow
+meow = Cat.meow
+maru.meow = "meow!"
 
 class Cat 
   attr_accessor
