@@ -7,3 +7,7 @@ class Cat
     @name
   end
 end
+
+class Cat 
+  attr_accessor
+end
