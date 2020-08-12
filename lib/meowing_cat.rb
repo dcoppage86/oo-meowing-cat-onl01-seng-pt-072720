@@ -16,6 +16,13 @@ class Cat
   end
 end
 
+maru = Cat.name
+maru.name = "Maru"
+
+maru.name
+
+maru.meow
+
 class Cat 
   attr_accessor
 end
